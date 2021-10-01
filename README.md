@@ -10,3 +10,8 @@
 ### [Project-2: Face-recognition using the classic PCA algorithm](https://github.com/divyadass/Face-Recognition/blob/master/ML%20face%20recognition%20with%20PCA.ipynb)
 - Data used: Images of the students enrolled in the course
 - Implimented the code in python from scratch 
+
+### Blog-1: Generating recommendations using HRNN
+- The blog describes diferent recommendation algorithms used traditionally.
+- In which setting they will work and fail.
+- What advantages we get on using HRNN algorithm for the same. 

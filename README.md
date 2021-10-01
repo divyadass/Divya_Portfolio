@@ -11,7 +11,7 @@
 - Data used: Images of the students enrolled in the course
 - Implimented the code in python from scratch 
 
-### Blog-1: Generating recommendations using HRNN
+### [Blog-1: Generating recommendations using HRNN](https://medium.com/@divyadass11/the-benefits-and-reasons-for-using-session-based-setting-to-generate-recommendations-using-hrnn-9790df704dc7)
 - The blog describes diferent recommendation algorithms used traditionally.
 - In which setting they will work and fail.
 - What advantages we get on using HRNN algorithm for the same. 

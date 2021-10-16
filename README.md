@@ -1,11 +1,14 @@
 # Welcome to my Portfolio Page
-**All the Projects are linked to Jupyter Notebooks. You can visit the github link for the code and more informaiton. You can also reach out to me at *divyadass11@gmail.com***
+**All the Projects are linked to Jupyter Notebooks. You can visit the github link for the code and more information. You can also reach out to me at *divyadass11@gmail.com***
 
 ### [Project-1: Sarcasm detection using LSTM](https://github.com/divyadass/sarcasm_detection/blob/develop/NLP_Project_Sarcasm_Detection_Questions.ipynb)
 - Data used: News Headlines data
 - Model architecture: Bidirectional LSTM
 - Framework used: Keras with Tensorflow
 - Hardware: CPU is sufficient
+- Git branch: 
+  1. develop : Jupyter notebook demonstrating model training
+  2. depolyment : flask API making use of the trained model to make predictions
 
 ### [Project-2: Named Entity recognition](https://github.com/divyadass/NER/blob/develop_BERT/NLP_NER_via_BERT.ipynb)
 - Data used: CONLL data
